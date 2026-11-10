@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/2/2026 9:07:49 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="VIG-2880KG3"
+  DTS:CreatorName="DATAMINE\jacob.moeketsi"
+  DTS:DTSID="{4F05ACDD-1376-42FD-9E6C-3F29ADDD5A2C}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="17.0.1016.0"
+  DTS:LocaleID="7177"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{0DDAC0C1-683C-4840-879C-E6EF53E88D50}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
